@@ -54,7 +54,18 @@ Circuito A
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
 
-*(Añade aquí el código del WaveDrom)*
+{signal: [
+
+  {name: 'D', wave: 'hl….hl.h..lhl.h'},
+  
+   {},
+   
+  {name: 'Q', wave: '10..10.1..010.1'},
+  
+  {name: '-Q', wave: '01..01.0..101.0'}
+  
+]}
+
 
 Circuito B
 
