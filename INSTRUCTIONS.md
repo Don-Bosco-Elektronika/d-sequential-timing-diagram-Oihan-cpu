@@ -6,7 +6,7 @@
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | D | 74100,74175,74164,74165,74595             | <img width="228" height="354" alt="Captura de pantalla 2026-01-20 080457" src="https://github.com/user-attachments/assets/b767fa2a-a98b-443b-ae96-a442f65c1e95" />
- | D motako flip-flop batek bere D sarrera kopiatu egiten du Q irteerara bakarrik erlojuaren pizkundean, eta balio hori mantentzen du hurrengo pultsera arte. |  
+ |  |  
 
 
 
