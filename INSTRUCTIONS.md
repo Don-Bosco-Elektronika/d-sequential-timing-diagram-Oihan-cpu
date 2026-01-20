@@ -1,27 +1,14 @@
 # 🛠️ Cronograma de Circuitos Secuenciales / Zirkuitu Sekuentzialen Kronograma / Sequential Circuit Timing Diagram
 
-| **Alumnos** | **Curso** | **Módulo** |
-|-------------|-----------|------------|
-| 2ME         | 1º        | EEM (Equipos Microprogramables) |
 
----
-
-## 📌 Ejercicio / Ariketa / Exercice
-
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
-| Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| D | 74100,74175,74164,74165,74595             | <img width="228" height="354" alt="Captura de pantalla 2026-01-20 080457" src="https://github.com/user-attachments/assets/b767fa2a-a98b-443b-ae96-a442f65c1e95" />
+ | D motako flip-flop batek bere D sarrera kopiatu egiten du Q irteerara bakarrik erlojuaren pizkundean, eta balio hori mantentzen du hurrengo pultsera arte. |  
 
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
+
 
 ---
 
