@@ -29,6 +29,13 @@
 
 *(Añade aquí la captura de proteus)*
 
+<img width="681" height="414" alt="Captura de pantalla 2026-01-20 082651" src="https://github.com/user-attachments/assets/49f191b1-b0b1-4b74-94c1-46779d87cb11" />
+<img width="754" height="408" alt="Captura de pantalla 2026-01-20 082634" src="https://github.com/user-attachments/assets/8ee4be88-1a36-493c-8568-ebee7e9d4908" />
+<img width="553" height="430" alt="Captura de pantalla 2026-01-20 082616" src="https://github.com/user-attachments/assets/aaa2cb0d-5f75-423d-aeb2-86e02659469f" />
+<img width="724" height="427" alt="Captura de pantalla 2026-01-20 082554" src="https://github.com/user-attachments/assets/0f6a6bda-8af6-4c36-96cf-db0129aa4a52" />
+<img width="748" height="409" alt="Captura de pantalla 2026-01-20 082530" src="https://github.com/user-attachments/assets/34588555-ff31-434d-bb9d-dbbe626b00f5" />
+
+
 ---
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
