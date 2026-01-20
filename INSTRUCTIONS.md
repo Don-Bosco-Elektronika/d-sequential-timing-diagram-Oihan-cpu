@@ -52,7 +52,7 @@ Circuito A
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
-Circuito A
+1.Arikenta (D asíncrono)
 
 {signal: [
 
@@ -67,11 +67,73 @@ Circuito A
 ]}
 
 
-Circuito B
+2.Ariketa(D flanco ascendente)
 
-*(Añade aquí el código del WaveDrom)*
 
-... AÑADE LO MÁS CIRCUITOS
+{signal: [
+
+  {name: 'clk', period:2, wave: 'P........'},
+  
+  {name: 'D', wave: '0101..0..1.0..1.0'},
+  
+  {},
+  
+  {name: 'Q', wave: '01..........0...1'},
+  
+  {name: '-Q', wave: '10..........1...0'}
+  
+]}
+
+3.Ariketa(D flanco descendente)
+
+{signal: [
+
+  {name: 'clk',period:2, wave: 'N........'},
+  
+  {name: 'D', wave: '10101..0.10.1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.0...1.0.1.0.1.0'},
+  
+  {name: '-Q', wave: '0.1...0.1.0.1.0.1'}
+  
+]}
+
+4.Ariketa(D nivel alto)
+
+{signal: [
+
+  {name: 'clk', period:2, wave: 'p........'},
+  
+  {name: 'D', wave: '10101..0.10.1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.......0...1....'},
+  
+  {name: '-Q', wave: '0.......1...0....'}
+  
+]}
+
+5.Ariketa(D nivel bajo)
+
+{signal: [
+
+  {name: 'clk', period:2, wave: 'n........'},
+  
+  {name: 'D', wave: '10101..0.10.1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.......0...1....'},
+  
+  {name: '-Q', wave: '0.......1...0....'}
+  
+]}
+
+
+
 
 ---
 
