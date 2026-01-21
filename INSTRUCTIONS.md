@@ -5,10 +5,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D | 74100,74175,74164,74165,74595             |<img width="131" height="93" alt="Captura de pantalla 2026-01-20 131246" src="https://github.com/user-attachments/assets/c75ca266-52f5-4179-a267-a7ff893aec73" /><img width="149" height="87" alt="Captura de pantalla 2026-01-20 131304" src="https://github.com/user-attachments/assets/737fdd48-7f9b-4065-988a-aaae2bd77a22" />
-
-  
-  | D motako flip-flop batek bere D sarrera kopiatu egiten du Q irteerara bakarrik erlojuaren pizkundean, eta balio hori mantentzen du hurrengo pultsurarte. |  
+| D | 74100,74175,74164,74165,74595             |<img width="131" height="93" alt="Captura de pantalla 2026-01-20 131246" src="https://github.com/user-attachments/assets/c75ca266-52f5-4179-a267-a7ff893aec73" /><img width="149" height="87" alt="Captura de pantalla 2026-01-20 131304" src="https://github.com/user-attachments/assets/737fdd48-7f9b-4065-988a-aaae2bd77a22" /> | D motako flip-flop batek bere D sarrera kopiatu egiten du Q irteerara bakarrik erlojuaren pizkundean, eta balio hori mantentzen du hurrengo pultsurarte. |  
 
 
 
